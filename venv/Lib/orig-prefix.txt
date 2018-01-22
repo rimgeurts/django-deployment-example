@@ -1,0 +1,1 @@
+C:\Users\Rim\AppData\Local\conda\conda\envs\myDjangoEnv
